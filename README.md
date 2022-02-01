@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrimonMahapatra
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL,Python,Tableau
+- 🌱 I’m currently learning SQL,Python,Tableau,Statstics
 - 📫 How to reach me ...srimonmahapatra44@outlook.com
 
 <!---
